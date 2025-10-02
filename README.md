@@ -16,7 +16,7 @@
 - **Backend:** Node.js, Express.js, REST APIs
 - **Database:** MySQL, PostgreSQL
 - **Core Concepts:** Data Structures, Algorithms, OOP, Database Management, System Design
-- **Tools:** Git, GitHub, Vercel
+- **Tools:** Git, GitHub, Vercel, Netlify, Render
 
 ## 🚀 Projects
 
