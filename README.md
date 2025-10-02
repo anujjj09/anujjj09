@@ -41,7 +41,6 @@ Dynamic icons, smooth async DOM updates, deployed on Vercel.
 - Junior Associate @ Alumni Cell, MAIT — event coordination & alumni engagement  
 - Member @ IETE Society, MAIT — operations and public relations  
 - National-Level Table Tennis Player — state & national medals (2014–Present)  
-- Smart India Hackathon, MAIT — represented institute at national-level (Sep 2024)
 
 ## 🏆 Certifications
 
