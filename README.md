@@ -22,7 +22,7 @@
 
 ### 🌾 AgroAI
 
-AI-Powered Farming Assistant using Google Gemini AI + YOLOv8 for crop recommendation and pest detection.  
+AI-Powered Farming Assistant using Google Gemini AI for crop recommendation + YOLOv8 for pest detection.  
 **Stack:** React, Node.js, Express, PostgreSQL, ONNX Runtime, Netlify/Render
 
 ### 🌦 WeatherWise
