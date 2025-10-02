@@ -4,7 +4,7 @@
 
 ## 🧑‍🎓 About Me
 
-- 🎓 B.Tech in Computer Science & Engineering @ Maharaja Agrasen Institute of Technology (SGPA: 7.27)  
+- 🎓 B.Tech in Computer Science & Engineering @ Maharaja Agrasen Institute of Technology (SGPA: 7.39)  
 - 💡 Passionate about Full-Stack Development, AI-driven apps, and Modern UI/UX  
 - 🌱 Currently learning advanced Java, DSA, and robust REST APIs for scalable projects  
 - 🤝 Open to collaborating on web and AI innovations
