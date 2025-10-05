@@ -11,30 +11,79 @@
 
 ## 🔧 Tech Stack
 
-[![Java](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg)](https://www.java.com/)
-[![C](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg)](https://en.wikipedia.org/wiki/C_(programming_language))
-[![C++](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg)](https://isocpp.org/)
-[![JavaScript](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
-[![React](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg)](https://reactjs.org/)
-[![Bootstrap](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain.svg)](https://getbootstrap.com/)
-[![HTML5](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg)](https://developer.mozilla.org/en-US/docs/Web/HTML)
-[![CSS3](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg)](https://developer.mozilla.org/en-US/docs/Web/CSS)
-[![JavaScript DOM](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg)](https://developer.mozilla.org/en-US/docs/Web/API/Document_Object_Model)
-[![Node.js](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg)](https://nodejs.org/)
-[![Express](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg)](https://expressjs.com/)
-[![REST API](https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/RESTful_API.svg/1200px-RESTful_API.svg.png)](https://restfulapi.net/)
-[![MySQL](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg)](https://www.mysql.com/)
-[![PostgreSQL](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg)](https://www.postgresql.org/)
-[![Data Structures](https://img.icons8.com/ios-filled/50/000000/data-configuration.png)](https://en.wikipedia.org/wiki/Data_structure)
-[![Algorithms](https://img.icons8.com/ios-filled/50/000000/algorithm.png)](https://en.wikipedia.org/wiki/Algorithm)
-[![OOP](https://img.icons8.com/ios-filled/50/000000/object-oriented-programming.png)](https://en.wikipedia.org/wiki/Object-oriented_programming)
-[![Database Management](https://img.icons8.com/ios-filled/50/000000/database.png)](https://en.wikipedia.org/wiki/Database_management_system)
-[![System Design](https://img.icons8.com/ios-filled/50/000000/networking.png)](https://en.wikipedia.org/wiki/Systems_design)
-[![Git](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg)](https://git-scm.com/)
-[![GitHub](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg)](https://github.com/)
-[![Vercel](https://cdn.worldvectorlogo.com/logos/vercel.svg)](https://vercel.com/)
-[![Netlify](https://cdn.worldvectorlogo.com/logos/netlify.svg)](https://www.netlify.com/)
-[![Render](https://render.com/images/logo/logo-white.svg)](https://render.com/)
+<a href="https://www.java.com/" target="_blank" rel="noopener noreferrer">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="30" alt="Java"/>
+</a>
+<a href="https://en.wikipedia.org/wiki/C_(programming_language)" target="_blank" rel="noopener noreferrer">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="30" alt="C"/>
+</a>
+<a href="https://isocpp.org/" target="_blank" rel="noopener noreferrer">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="30" alt="C++"/>
+</a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noopener noreferrer">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="30" alt="JavaScript"/>
+</a>
+<a href="https://reactjs.org/" target="_blank" rel="noopener noreferrer">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="30" alt="React"/>
+</a>
+<a href="https://getbootstrap.com/" target="_blank" rel="noopener noreferrer">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain.svg" width="30" alt="Bootstrap"/>
+</a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank" rel="noopener noreferrer">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="30" alt="HTML5"/>
+</a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank" rel="noopener noreferrer">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="30" alt="CSS3"/>
+</a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/API/Document_Object_Model" target="_blank" rel="noopener noreferrer">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="30" alt="JavaScript DOM"/>
+</a>
+<a href="https://nodejs.org/" target="_blank" rel="noopener noreferrer">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="30" alt="Node.js"/>
+</a>
+<a href="https://expressjs.com/" target="_blank" rel="noopener noreferrer">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="30" alt="Express"/>
+</a>
+<a href="https://restfulapi.net/" target="_blank" rel="noopener noreferrer">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/RESTful_API.svg/1200px-RESTful_API.svg.png" width="30" alt="REST API"/>
+</a>
+<a href="https://www.mysql.com/" target="_blank" rel="noopener noreferrer">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="30" alt="MySQL"/>
+</a>
+<a href="https://www.postgresql.org/" target="_blank" rel="noopener noreferrer">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="30" alt="PostgreSQL"/>
+</a>
+<a href="https://en.wikipedia.org/wiki/Data_structure" target="_blank" rel="noopener noreferrer">
+  <img src="https://img.icons8.com/ios-filled/50/000000/data-configuration.png" width="30" alt="Data Structures"/>
+</a>
+<a href="https://en.wikipedia.org/wiki/Algorithm" target="_blank" rel="noopener noreferrer">
+  <img src="https://img.icons8.com/ios-filled/50/000000/algorithm.png" width="30" alt="Algorithms"/>
+</a>
+<a href="https://en.wikipedia.org/wiki/Object-oriented_programming" target="_blank" rel="noopener noreferrer">
+  <img src="https://img.icons8.com/ios-filled/50/000000/object-oriented-programming.png" width="30" alt="OOP"/>
+</a>
+<a href="https://en.wikipedia.org/wiki/Database_management_system" target="_blank" rel="noopener noreferrer">
+  <img src="https://img.icons8.com/ios-filled/50/000000/database.png" width="30" alt="Database Management"/>
+</a>
+<a href="https://en.wikipedia.org/wiki/Systems_design" target="_blank" rel="noopener noreferrer">
+  <img src="https://img.icons8.com/ios-filled/50/000000/networking.png" width="30" alt="System Design"/>
+</a>
+<a href="https://git-scm.com/" target="_blank" rel="noopener noreferrer">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="30" alt="Git"/>
+</a>
+<a href="https://github.com/" target="_blank" rel="noopener noreferrer">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="30" alt="GitHub"/>
+</a>
+<a href="https://vercel.com/" target="_blank" rel="noopener noreferrer">
+  <img src="https://cdn.worldvectorlogo.com/logos/vercel.svg" width="30" alt="Vercel"/>
+</a>
+<a href="https://www.netlify.com/" target="_blank" rel="noopener noreferrer">
+  <img src="https://cdn.worldvectorlogo.com/logos/netlify.svg" width="30" alt="Netlify"/>
+</a>
+<a href="https://render.com/" target="_blank" rel="noopener noreferrer">
+  <img src="https://render.com/images/logo/logo-white.svg" width="30" alt="Render"/>
+</a>
+
 
 ## 🚀 Projects
 
