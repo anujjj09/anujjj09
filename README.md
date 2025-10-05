@@ -103,12 +103,6 @@ Full-stack todo manager made to learn CRUD and REST APIs.
 
 ## 💼 Experience
 
-**Frontend Development Intern @ CODSOFT (Nov 2024 – Dec 2024)**  
-- Built responsive landing page and portfolio with semantic HTML5, CSS3  
-- Engineered interactive calculator using JavaScript ES6 for enhanced UX
-
-## 💼 Experience
-
 **Frontend Development Intern @ CODSOFT**  
 _Nov 2024 – Dec 2024_
 
