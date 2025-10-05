@@ -42,15 +42,66 @@
 
 ## 🚀 Projects
 
-### 🌾 AgroAI
+## 🚀 Projects
 
-AI-Powered Farming Assistant using Google Gemini AI for crop recommendation + YOLOv8 for pest detection.  
-**Stack:** React, Node.js, Express, PostgreSQL, ONNX Runtime, Netlify/Render
+---
 
-### 🌦 WeatherWise
+### 🌾 AgroAI – Intelligent Agricultural Assistant  
+AI-powered farming assistant using Google Gemini AI for crop recommendations and YOLOv8 for pest detection.
 
-Responsive weather app using HTML, CSS, JavaScript ES6, integrating OpenWeatherMap API for real-time forecasts.  
-Dynamic icons, smooth async DOM updates, deployed on Vercel.
+[🔗 Live Demo](https://agro-ai-app.netlify.app/dashboard) • [📚 Repository](https://github.com/anujjj09/AgroAI)
+
+**Stack:** React, Node.js, Express, PostgreSQL, ONNX Runtime, Netlify, Render  
+**Key Features:**  
+- Smart crop advisory for Punjab farmers  
+- AI chat assistant (Google Gemini, multilingual: English/Hindi/Punjabi)  
+- Smart pest detection (YOLOv8 vision)  
+- Real-time weather & market price integration  
+- District-wise agricultural insights
+
+---
+
+### 💰 SplitSmart – Expense Splitting App  
+Keep roommate/group expenses organized, automate balance calculations.
+
+[🔗 Live Demo](https://glittering-cajeta-240d93.netlify.app/) • [📚 Repository](https://github.com/anujjj09/SplitSmart)
+
+**Stack:** React.js, Node.js, Express.js, Netlify, Render  
+**Features:**  
+- Group & member management  
+- Expense tracking & smart split calculation  
+- CSV export  
+- In-memory JSON data for MVP  
+- Responsive UI for mobile/desktop
+
+---
+
+### 🌦 WeatherWise – Weather Forecast App  
+Responsive weather app integrating OpenWeatherMap API for real-time forecasts.
+
+[🔗 Live Demo](https://weather-ozo962h6f-anuj-sharmas-projects-8ef045ad.vercel.app/) • [📚 Repository](https://github.com/anujjj09/weather-app)
+
+**Stack:** HTML, CSS, JavaScript (ES6), OpenWeatherMap API, Vercel  
+**Key Features:**  
+- Current and 5-day weather forecast by geographic location  
+- Dynamic weather icons and responsive UI  
+- Seamless async DOM updates  
+- Clean, beginner-friendly codebase
+
+---
+
+### 📋 Taskify – Todo App  
+Full-stack todo manager made to learn CRUD and REST APIs.
+
+[🔗 Live Demo](https://kaleidoscopic-sopapillas-e4695c.netlify.app/) • [📚 Repository](https://github.com/anujjj09/Taskify)
+
+**Stack:** React, CSS, JavaScript, Node.js, Express, JSON file  
+**Features:**  
+- Add, edit, delete, complete/incomplete tasks  
+- Responsive design  
+- REST API backend  
+- Simple file-based storage for quick prototyping
+
 
 ## 💼 Experience
 
