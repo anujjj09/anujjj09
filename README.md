@@ -80,7 +80,7 @@ Responsive weather app integrating OpenWeatherMap API for real-time forecasts.
 [🔗 Live Demo](https://weather-ozo962h6f-anuj-sharmas-projects-8ef045ad.vercel.app/) • [📚 Repository](https://github.com/anujjj09/weather-app)
 
 **Stack:** HTML, CSS, JavaScript (ES6), OpenWeatherMap API, Vercel  
-**Key Features:**  
+**Features:**  
 - Current and 5-day weather forecast by geographic location  
 - Dynamic weather icons and responsive UI  
 - Seamless async DOM updates  
