@@ -42,14 +42,12 @@
 
 ## 🚀 Projects
 
-## 🚀 Projects
-
 ---
 
 ### 🌾 AgroAI – Intelligent Agricultural Assistant  
 AI-powered farming assistant using Google Gemini AI for crop recommendations and YOLOv8 for pest detection.
 
-[🔗 Live Demo](https://agro-ai-app.netlify.app/dashboard) • [📚 Repository](https://github.com/anujjj09/AgroAI)
+[🔗 Live Demo](https://agro-ai-app.netlify.app/) • [📚 Repository](https://github.com/anujjj09/AgroAI)
 
 **Stack:** React, Node.js, Express, PostgreSQL, ONNX Runtime, Netlify, Render  
 **Key Features:**  
