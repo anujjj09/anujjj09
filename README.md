@@ -11,12 +11,30 @@
 
 ## 🔧 Tech Stack
 
-- **Languages:** Java, C, C++, JavaScript (ES6)
-- **Frontend:** React.js, Bootstrap, HTML5, CSS3, JavaScript DOM
-- **Backend:** Node.js, Express.js, REST APIs
-- **Database:** MySQL, PostgreSQL
-- **Core Concepts:** Data Structures, Algorithms, OOP, Database Management, System Design
-- **Tools:** Git, GitHub, Vercel, Netlify, Render
+[![Java](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg)](https://www.java.com/)
+[![C](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg)](https://en.wikipedia.org/wiki/C_(programming_language))
+[![C++](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg)](https://isocpp.org/)
+[![JavaScript](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+[![React](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg)](https://reactjs.org/)
+[![Bootstrap](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain.svg)](https://getbootstrap.com/)
+[![HTML5](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg)](https://developer.mozilla.org/en-US/docs/Web/HTML)
+[![CSS3](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg)](https://developer.mozilla.org/en-US/docs/Web/CSS)
+[![JavaScript DOM](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg)](https://developer.mozilla.org/en-US/docs/Web/API/Document_Object_Model)
+[![Node.js](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg)](https://nodejs.org/)
+[![Express](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg)](https://expressjs.com/)
+[![REST API](https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/RESTful_API.svg/1200px-RESTful_API.svg.png)](https://restfulapi.net/)
+[![MySQL](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg)](https://www.mysql.com/)
+[![PostgreSQL](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg)](https://www.postgresql.org/)
+[![Data Structures](https://img.icons8.com/ios-filled/50/000000/data-configuration.png)](https://en.wikipedia.org/wiki/Data_structure)
+[![Algorithms](https://img.icons8.com/ios-filled/50/000000/algorithm.png)](https://en.wikipedia.org/wiki/Algorithm)
+[![OOP](https://img.icons8.com/ios-filled/50/000000/object-oriented-programming.png)](https://en.wikipedia.org/wiki/Object-oriented_programming)
+[![Database Management](https://img.icons8.com/ios-filled/50/000000/database.png)](https://en.wikipedia.org/wiki/Database_management_system)
+[![System Design](https://img.icons8.com/ios-filled/50/000000/networking.png)](https://en.wikipedia.org/wiki/Systems_design)
+[![Git](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg)](https://git-scm.com/)
+[![GitHub](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg)](https://github.com/)
+[![Vercel](https://cdn.worldvectorlogo.com/logos/vercel.svg)](https://vercel.com/)
+[![Netlify](https://cdn.worldvectorlogo.com/logos/netlify.svg)](https://www.netlify.com/)
+[![Render](https://render.com/images/logo/logo-white.svg)](https://render.com/)
 
 ## 🚀 Projects
 
