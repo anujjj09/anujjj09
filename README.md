@@ -11,78 +11,33 @@
 
 ## 🔧 Tech Stack
 
-<a href="https://www.java.com/" target="_blank" rel="noopener noreferrer">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="30" alt="Java"/>
-</a>
-<a href="https://en.wikipedia.org/wiki/C_(programming_language)" target="_blank" rel="noopener noreferrer">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="30" alt="C"/>
-</a>
-<a href="https://isocpp.org/" target="_blank" rel="noopener noreferrer">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="30" alt="C++"/>
-</a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noopener noreferrer">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="30" alt="JavaScript"/>
-</a>
-<a href="https://reactjs.org/" target="_blank" rel="noopener noreferrer">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="30" alt="React"/>
-</a>
-<a href="https://getbootstrap.com/" target="_blank" rel="noopener noreferrer">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain.svg" width="30" alt="Bootstrap"/>
-</a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank" rel="noopener noreferrer">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="30" alt="HTML5"/>
-</a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank" rel="noopener noreferrer">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="30" alt="CSS3"/>
-</a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/API/Document_Object_Model" target="_blank" rel="noopener noreferrer">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="30" alt="JavaScript DOM"/>
-</a>
-<a href="https://nodejs.org/" target="_blank" rel="noopener noreferrer">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="30" alt="Node.js"/>
-</a>
-<a href="https://expressjs.com/" target="_blank" rel="noopener noreferrer">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="30" alt="Express"/>
-</a>
-<a href="https://restfulapi.net/" target="_blank" rel="noopener noreferrer">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/RESTful_API.svg/1200px-RESTful_API.svg.png" width="30" alt="REST API"/>
-</a>
-<a href="https://www.mysql.com/" target="_blank" rel="noopener noreferrer">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="30" alt="MySQL"/>
-</a>
-<a href="https://www.postgresql.org/" target="_blank" rel="noopener noreferrer">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="30" alt="PostgreSQL"/>
-</a>
-<a href="https://en.wikipedia.org/wiki/Data_structure" target="_blank" rel="noopener noreferrer">
-  <img src="https://img.icons8.com/ios-filled/50/000000/data-configuration.png" width="30" alt="Data Structures"/>
-</a>
-<a href="https://en.wikipedia.org/wiki/Algorithm" target="_blank" rel="noopener noreferrer">
-  <img src="https://img.icons8.com/ios-filled/50/000000/algorithm.png" width="30" alt="Algorithms"/>
-</a>
-<a href="https://en.wikipedia.org/wiki/Object-oriented_programming" target="_blank" rel="noopener noreferrer">
-  <img src="https://img.icons8.com/ios-filled/50/000000/object-oriented-programming.png" width="30" alt="OOP"/>
-</a>
-<a href="https://en.wikipedia.org/wiki/Database_management_system" target="_blank" rel="noopener noreferrer">
-  <img src="https://img.icons8.com/ios-filled/50/000000/database.png" width="30" alt="Database Management"/>
-</a>
-<a href="https://en.wikipedia.org/wiki/Systems_design" target="_blank" rel="noopener noreferrer">
-  <img src="https://img.icons8.com/ios-filled/50/000000/networking.png" width="30" alt="System Design"/>
-</a>
-<a href="https://git-scm.com/" target="_blank" rel="noopener noreferrer">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="30" alt="Git"/>
-</a>
-<a href="https://github.com/" target="_blank" rel="noopener noreferrer">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="30" alt="GitHub"/>
-</a>
-<a href="https://vercel.com/" target="_blank" rel="noopener noreferrer">
-  <img src="https://cdn.worldvectorlogo.com/logos/vercel.svg" width="30" alt="Vercel"/>
-</a>
-<a href="https://www.netlify.com/" target="_blank" rel="noopener noreferrer">
-  <img src="https://cdn.worldvectorlogo.com/logos/netlify.svg" width="30" alt="Netlify"/>
-</a>
-<a href="https://render.com/" target="_blank" rel="noopener noreferrer">
-  <img src="https://render.com/images/logo/logo-white.svg" width="30" alt="Render"/>
-</a>
+<p>
+  <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white"/>
+  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/>
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/>
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+  <img src="https://img.shields.io/badge/Bootstrap-563d7c?style=for-the-badge&logo=bootstrap&logoColor=white"/>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript_DOM-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/>
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white"/>
+  <img src="https://img.shields.io/badge/REST_API-0064a5?style=for-the-badge&logo=postman&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Data%20Structures-4B8BBE?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Algorithms-FFCA28?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/OOP-ec167f?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Database%20Management-2F4F4F?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/System%20Design-ED8B00?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Render-3f579a?style=for-the-badge"/>
+</p>
+
 
 
 ## 🚀 Projects
